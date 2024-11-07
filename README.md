@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sales App<br>👯 I’m looking to collaborate on the same <br>🌱 I’m currently learning front-End engineering<br>💬 Ask me about Back-End engineering<br>⚡ Fun fact -  Am a Rotarian <br>📫 How to reach me:  Benzoic09@gmail.com
+🔭 I’m currently working on Sales App<br>👯 I’m looking to elavate my career <br>🌱 I’m currently learning front-End engineering<br>💬 Ask me about Back-End engineering<br>⚡ Fun fact -  Am a Rotarian <br>📫 How to reach me:  Benzoic09@gmail.com
 
 
 ## 🌐 Socials:
